@@ -1,6 +1,4 @@
-package queue;
-
-import java.sql.SQLOutput;
+package queue_DS;
 
 public class QueueUsingLinkedList {
     Node front;

@@ -1,4 +1,4 @@
-package stack;
+package stack_DS;
 
 public class StackUsingArray {
     public int arr[];
