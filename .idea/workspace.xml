@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d312d647-b864-46b3-a677-356f4a61e473" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList_DS/LL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/queue_DS/QueueUsingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/queue_DS/QueueUsingStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack_DS/StackUsingOneQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack_DS/StackUsingQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/queue/QueueUsingArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/queue/QueueUsingLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/queue_DS/QueueUsingLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack/StackUsingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack_DS/StackUsingArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack/StackUsingLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack_DS/StackUsingLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList_DS/LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList_DS/LL.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +40,20 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.QueueUsingArray">
+  <component name="RunManager" selected="Application.LL">
+    <configuration name="LL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList_DS.LL" />
+      <module name="DSA_With_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedList_DS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="QueueUsingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="queue_DS.QueueUsingArray" />
       <module name="DSA_With_JAVA" />
@@ -97,6 +108,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LL" />
         <item itemvalue="Application.QueueUsingArray" />
         <item itemvalue="Application.QueueUsingLinkedList" />
         <item itemvalue="Application.StackUsingLinkedList" />
@@ -148,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668162024606</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Initial Commit">
+      <created>1668171285547</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668171285547</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
